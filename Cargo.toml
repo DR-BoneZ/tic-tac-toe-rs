@@ -1,5 +1,5 @@
 [package]
-name = "temp"
+name = "tic-tac-toe"
 version = "0.1.0"
 authors = ["Aiden McClelland <aiden.mcclelland@saltlending.com>"]
 edition = "2018"
